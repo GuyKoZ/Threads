@@ -1,6 +1,3 @@
-//Yakov Hazout - 205874233
-//Guy Kozliner - 316612662
-
 import java.util.Scanner;
 
 public class Program {
