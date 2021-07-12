@@ -1,5 +1,3 @@
-
-
 public class Worker implements Runnable {
     public int num,countDiv = 0;
     public static int maxNum = 0;
