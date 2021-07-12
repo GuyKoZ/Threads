@@ -1,6 +1,3 @@
-//Yakov Hazout - 205874233
-//Guy Kozliner - 316612662
-
 public class Student {
     private String id;
     private String name;
